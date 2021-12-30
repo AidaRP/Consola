@@ -223,5 +223,14 @@ align-items: center;
 
 
 
+/* VISTA 1 */
+.vista1{
+    background-color: aqua;
+}
 
 
+
+/* VISTA 2 */
+.vista2{
+    background-color: rgb(72, 255, 0);
+}
