@@ -136,10 +136,6 @@ border-radius: 0px 20px 20px 0;
     grid-template-rows: 30px 30px 30px;
 }
 
-#celda1{
-
-}
-
 #celda2{
     background-color: rgb(0, 0, 0);
     color: whitesmoke;
@@ -148,11 +144,6 @@ border-radius: 0px 20px 20px 0;
     justify-content: center;
     border-radius: 50%;
 }
-
-#celda3{
-
-}
-
 
 #celda5{
     background-color: rgb(0, 0, 0);
@@ -163,9 +154,6 @@ border-radius: 0px 20px 20px 0;
     border-radius: 50%;
 }
 
-#celda6{
-
-}
 #celda7{
     background-color: rgb(0, 0, 0);
     color: whitesmoke;
@@ -175,10 +163,7 @@ border-radius: 0px 20px 20px 0;
     border-radius: 50%;
 }
 
-}
-#celda9{
-    
-}
+
 #celda10{
     background-color: rgb(0, 0, 0);
     color: whitesmoke;
@@ -187,9 +172,7 @@ border-radius: 0px 20px 20px 0;
     justify-content: center;
     border-radius: 50%;
 }
-#celda11{
-   
-}
+
 
 /* BOTONERA IZQUIERDA SUPERIOR */
 #botones_izq{
@@ -219,19 +202,10 @@ align-items: center;
     margin-bottom: 50%;
     margin-left: 10%;
 }
-
-#Mommy_botonera{
-   
-}
-#cruz1{
-
-}
 #cruz2{
     background-color: rgb(0, 0, 0);
 }
-#cruz3{
-    
-}
+
 #cruz5{
     background-color: rgb(0, 0, 0);
 }
@@ -241,15 +215,11 @@ align-items: center;
 #cruz7{
     background-color: rgb(0, 0, 0);
 }
-#cruz9{
-    
-}
+
 #cruz10{
     background-color: rgb(0, 0, 0);
 }
-#cruz11{
-    
-}
+
 
 
 
